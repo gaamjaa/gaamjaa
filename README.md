@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Haeyeon Github!&fontSize=90" />
+
+
+<center>### Hi there 👋</center>
 
 <!--
 **gaamjaa/gaamjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seahaeyeon)](https://solved.ac/seahaeyeon)
 
-  <img src="http://mazandi.herokuapp.com/api?handle=seahaeyeon&theme=warm"/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seahaeyeon)](https://solved.ac/seahaeyeon) | <img src="http://mazandi.herokuapp.com/api?handle=seahaeyeon&theme=warm"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaamjaa)](https://github.com/gaamjaa/github-readme-stats)
