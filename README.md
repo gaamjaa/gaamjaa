@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seahaeyeon)](https://solved.ac/seahaeyeon)
 
-  <img src="http://mazandi.herokuapp.com/api?handle={seahaeyeon}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=seahaeyeon&theme=warm"/>
