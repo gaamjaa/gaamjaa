@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seahaeyeon)](https://solved.ac/seahaeyeon) | <img src="http://mazandi.herokuapp.com/api?handle=seahaeyeon&theme=warm"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seahaeyeon)](https://solved.ac/seahaeyeon)  <img src="http://mazandi.herokuapp.com/api?handle=seahaeyeon&theme=warm"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaamjaa)](https://github.com/gaamjaa/github-readme-stats)
