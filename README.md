@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Haeyeon%Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Haeyeon&nbsp;Github!&fontSize=90" />
 
 
 <!--<center>### Hi there 👋</center>-->
