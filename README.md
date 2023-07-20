@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Haeyeon Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Haeyeon%Github!&fontSize=90" />
 
 
-<center>### Hi there 👋</center>
+<!--<center>### Hi there 👋</center>-->
 
 <!--
 **gaamjaa/gaamjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
